@@ -1,2 +1,3 @@
 # Linux-snakeGameUpdate
 Linux下对LKJ制作的snake游戏的小改进
+Linux下的贪吃蛇游戏，原游戏方向操作有BUG导致蛇无法按预想更改方向，我重新设置了WASD为方向键，P为改变速度键
