@@ -1,0 +1,2 @@
+# Linux-snakeGameUpdate
+Linux下对LKJ制作的snake游戏的小改进
