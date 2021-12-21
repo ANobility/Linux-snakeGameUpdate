@@ -3,7 +3,7 @@
 # filename: snake1.sh
 # snake game
 # Author: LKJ 2013.5.17
-# Modifier Gem 2020.12.20
+# Modifier Weber 2020.12.20
 
 good_game=(
      '                                                  ' 
