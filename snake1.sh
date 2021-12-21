@@ -22,7 +22,7 @@ game_start=(
     '                ~~~ S N A K E ~~~                '
     '                                                 '
     '                  Author:  LKJ                   '
-    '                  Modifier:  Gem                 '
+    '                  Modifier:  Weber                 '
     '         space or enter   pause/play             '
     '         q                quit at any time       '
     '         p                change the speed       '
